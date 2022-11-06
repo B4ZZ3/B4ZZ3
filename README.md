@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**B4ZZ3/B4ZZ3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Bjarne! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a student of business informatics and I like to program in my spare time and always try out new things and programming languages.
+I also like to swim and make music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/bchristel)
+
+## 🛠 Skills
+- HTML, SCSS, PHP, Java, C#, Python  
+- Excel, Jira, Confluence
+
+## More about me...
+👩‍💻 I'm currently working on an amazon price tracker
+
+🧠 I'm currently learning python
+
+📫 How to reach me: **develop.christel@gmail.com**
