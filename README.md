@@ -16,5 +16,3 @@ I also like to swim and make music.
 👩‍💻 I'm currently working on an amazon price tracker
 
 🧠 I'm currently learning python
-
-📫 How to reach me: **develop.christel@gmail.com**
