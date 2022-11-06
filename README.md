@@ -1,5 +1,5 @@
 
-# Hi, I'm Bjarne! 👋
+# Hi, I'm B4ZZ3! 👋
 
 ## 🚀 About Me
 I'm a student of business informatics and I like to program in my spare time and always try out new things and programming languages.
