@@ -5,9 +5,6 @@
 I'm a student of business informatics and I like to program in my spare time and always try out new things and programming languages.
 I also like to swim and make music.
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/bchristel)
-
 ## 🛠 Skills
 - HTML, SCSS, PHP, Java, C#, Python  
 - Excel, Jira, Confluence
